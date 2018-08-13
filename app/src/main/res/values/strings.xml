@@ -1,0 +1,27 @@
+<resources>
+    <string name="test_name">马云：一年交税170多亿马云</string>
+    <string name="app_name">设备检测</string>
+    <string name="aty_param_set.title">参数设定</string>
+    <string name="aty_param_set.blueTooth">蓝牙设备</string>
+    <string name="aty_param_set.warnValve">报警阈值</string>
+    <string name="aty_param_set.serverIp">服务器IP</string>
+    <string name="aty_param_set.voltSet">电压设定</string>
+    <string name="aty_param_set.voltAdj">电压校定</string>
+    <string name="aty_param_set.currAdj">电流校定</string>
+    <string name="aty_param_set.set">保存参数</string>
+    <string name="aty_param_set.ret">返回</string>
+    <string-array name="lines">
+        <item>101线路</item>
+        <item>102线路 </item>
+        <item>103线路</item>
+        <item>104线路</item>
+        <item>105线路</item>
+    </string-array>
+    <string-array name="pols">
+        <item>1#杆塔</item>
+        <item>2#杆塔</item>
+        <item>3#杆塔</item>
+        <item>4#杆塔</item>
+        <item>5#杆塔</item>
+    </string-array>
+</resources>
