@@ -1,6 +1,6 @@
 <resources>
     <string name="test_name">马云：一年交税170多亿马云</string>
-    <string name="app_name">设备检测</string>
+    <string name="app_name">3D智慧机房</string>
     <string name="aty_param_set.title">参数设定</string>
     <string name="aty_param_set.blueTooth">蓝牙设备</string>
     <string name="aty_param_set.warnValve">报警阈值</string>
